@@ -269,19 +269,19 @@ button {
 }
 
 .meeting-card .header-image-one {
-    background-image: url('./flex image/meeting.jpg');
+    background-image: url('./images/meeting.jpg');
 }
 
 .meeting-card .header-image-two {
-    background-image: url('./flex image/book1.jpg');
+    background-image: url('./images/meeting11.jpg');
 }
 
 .meeting-card .header-image-three {
-    background-image: url('./flex image/bok.jpg');
+    background-image: url('./images/bok.jpg');
 }
 
 .meeting-card .header-image-four {
-    background-image: url('./flex image/Book3.jpeg');
+    background-image: url('./images/Book3.jpeg');
 }
 
 .meeting-card .meeting-body {
